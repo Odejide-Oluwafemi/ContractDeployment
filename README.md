@@ -9,8 +9,6 @@ forge script script/Owner.s.sol:OwnerScript --rpc-url https://rpc.sepolia-api.li
 [0x55b7A2b167027A8662e03059aa204a433c30F5B6](https://sepolia-blockscout.lisk.com/address/0x55b7A2b167027A8662e03059aa204a433c30F5B6)
 
 
----
-
 ### Hardhat
 🛠️ Command:
 ```
@@ -20,6 +18,8 @@ npx hardhat ignition deploy ignition/modules/Owner.ts --network lisk
 ✅ Contract Address:
 [0x967075480b82597f708EbFfc08d8898B6Df5bB81](https://sepolia-blockscout.lisk.com/address/0x967075480b82597f708EbFfc08d8898B6Df5bB81)
 
+---
+---
 
 # Arc Deployment
 ### Foundry
